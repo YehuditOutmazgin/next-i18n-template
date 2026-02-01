@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Multilingual Website | Home",
+    "description": "Advanced Next.js project with full Hebrew and English support"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Welcome to Our Platform",
+      "subtitle": "Advanced Technology Solutions",
+      "description": "We provide cutting-edge technology solutions with full multilingual support and responsive design",
+      "cta": "Get Started"
+    },
+    "features": {
+      "title": "Our Advantages",
+      "items": [
+        {
+          "title": "Fully Responsive",
+          "description": "Works perfectly on all devices - mobile, tablet, and desktop"
+        },
+        {
+          "title": "Multilingual",
+          "description": "Full support for Hebrew and English with smooth transitions"
+        },
+        {
+          "title": "Excellent Performance",
+          "description": "Fast loading and maximum optimization"
+        }
+      ]
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "content": "We specialize in developing advanced web applications with Next.js"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "form": {
+      "name": "Full Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "notFound": "Page not found",
+    "backHome": "Back to Home"
+  },
+  "footer": {
+    "copyright": "All Rights Reserved",
+    "rights": "© 2024"
+  }
+}
